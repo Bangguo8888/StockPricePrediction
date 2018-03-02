@@ -1,4 +1,4 @@
-# StockPricePrediction
+# Stock Price Prediction
 The data set contains daily stock closed price in history.  
 Three models that have a statisfied prediction performance:
 1. Linear regression with feature selection
