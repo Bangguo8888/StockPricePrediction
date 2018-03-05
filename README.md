@@ -1,4 +1,5 @@
-# Stock Price Prediction
+# Stock Price Prediction<br />
+**The project was done for a financial trading company. The goal of it was to predict the stock price as accurate as possible.**<br /><br />
 The data set contains daily stock closed price in history.  
 Three models that have a statisfied prediction performance:
 1. Linear regression with feature selection
